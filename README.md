@@ -3,4 +3,4 @@ Just another repository
 
 Hello Everyone!
 
-Sai here. I am curious guy who likes to learn new things. 
+Sai here. I am a curious guy who likes to learn new things. 
